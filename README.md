@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Meu nome é Jefferson, e atualmente estou traçando o caminho para me tornar um desenvolvedor Front End. Tenho grande interesse por tecnologia e inovação, e esse desejo me levou a estudar Análise e Desenvolvimento de Sistemas (ADS) na Estácio. No momento, também atuo como Auxiliar Administrativo, o que me permite aprimorar habilidades organizacionais e de gestão, além de me proporcionar uma base sólida para entender as necessidades empresariais.
+Meu nome é Jefferson, e atualmente estou traçando o caminho para me tornar um desenvolvedor Front End. Tenho grande interesse por tecnologia e inovação, e esse desejo me levou a estudar Análise e Desenvolvimento de Sistemas (ADS) na Estácio. Amo pedalar e estar em contato com a natureza, sou muito colaborativo e amo aprender coisas novas, aprender pra mim funciona como uma motivação, quanto mais, melhor, então estou sempre buscando conhecer e desenvolver minhas qualidades como desenvolvedor para poder contribuir com meus colegas.
 
 
 ## 🌐 Socials:
