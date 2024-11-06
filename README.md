@@ -2,7 +2,7 @@
 Meu nome é Jefferson, e atualmente estou traçando o caminho para me tornar um desenvolvedor Front End. Tenho grande interesse por tecnologia e inovação, e esse desejo me levou a estudar Análise e Desenvolvimento de Sistemas (ADS) na Estácio. Amo pedalar e estar em contato com a natureza, sou muito colaborativo e amo aprender coisas novas, aprender pra mim funciona como uma motivação, quanto mais, melhor, então estou sempre buscando conhecer e desenvolver minhas qualidades como desenvolvedor para poder contribuir com meus colegas.
 
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+ <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 </div>
 
 ## 🌐 Socials
