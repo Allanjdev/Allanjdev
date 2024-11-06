@@ -2,7 +2,7 @@
 Meu nome é Jefferson, e atualmente estou traçando o caminho para me tornar um desenvolvedor Front End. Tenho grande interesse por tecnologia e inovação, e esse desejo me levou a estudar Análise e Desenvolvimento de Sistemas (ADS) na Estácio. Amo pedalar e estar em contato com a natureza, sou muito colaborativo e amo aprender coisas novas, aprender pra mim funciona como uma motivação, quanto mais, melhor, então estou sempre buscando conhecer e desenvolver minhas qualidades como desenvolvedor para poder contribuir com meus colegas.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxkeXI3c2Y3d2lnd2lpNGZlOGk5MjhnNzZzZzgxM2xmNWZyb3dwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
 </div>
 
 ## 🌐 Socials
