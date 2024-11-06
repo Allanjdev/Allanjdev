@@ -1,9 +1,7 @@
 # 💫 Sobre mim
 Meu nome é Jefferson, e atualmente estou traçando o caminho para me tornar um desenvolvedor Front End. Tenho grande interesse por tecnologia e inovação, e esse desejo me levou a estudar Análise e Desenvolvimento de Sistemas (ADS) na Estácio. Amo pedalar e estar em contato com a natureza, sou muito colaborativo e amo aprender coisas novas, aprender pra mim funciona como uma motivação, quanto mais, melhor, então estou sempre buscando conhecer e desenvolver minhas qualidades como desenvolvedor para poder contribuir com meus colegas.
 
-<div id="header" align="center">
- <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-</div>
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxkeXI3c2Y3d2lnd2lpNGZlOGk5MjhnNzZzZzgxM2xmNWZyb3dwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/allanj.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jefferson-allan-5824b22b6) 
